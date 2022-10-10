@@ -34,7 +34,7 @@ export const Skills = () => {
           <Col>
           <div className="skill-bx">
             <h2>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br/>Lorem Ipsum has been the industry's standard dummy text</p>
+              <p>I learned C++ at 42 (Paris) in 2019. And after, I learned Web development language (React, Symfony..), I built robust and user friendly web applications from scratch. I practiced a lot by building various websites. I also acquired new skills on different technologies (Web3, Smart Contract), learning by myself.</p>
               <Carousel responsive={responsive} infinite={true} className="skill-slider">
                 <div className="item">
                   <img src={meter1} alt="Image"/>
@@ -45,12 +45,12 @@ export const Skills = () => {
                   <h5>Web3 Development</h5>
                 </div>
                 <div className="item">
-                  <img src={meter3} alt="Image"/>
-                  <h5>Web Development</h5>
+                  <img src={meter1} alt="Image"/>
+                  <h5>Creativity</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="Image"/>
-                  <h5>Web Development</h5>
+                  <img src={meter3} alt="Image"/>
+                  <h5>Smart Contract</h5>
                 </div>
               </Carousel>
             </h2>

@@ -27,7 +27,8 @@ export const Banner = () => {
                 ]} 
                 />
               </h1>
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+              <p>A Freelance Fullstack Web & Blockchain developer who loves coding, designing & promoting websites. I will help you to achieve your web project. I help businesses to create their website and reach their goals.<br/>Any Project in mind?
+              </p>
               <a href="#connect"><button>Let's connect <ArrowRightCircle size={25}/></button></a>
               </div>}
             </TrackVisibility>

@@ -326,6 +326,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   position: relative;
   background-color: black;
 }
+.project a:hover{
+  text-decoration: none;
+  color: white;
+}
 .project h2 {
 	font-size: 45px;
 	font-weight: 700;

@@ -14,31 +14,19 @@ export const Projects = () => {
       title: "Business Startup",
       description: "Design & Development",
       imgUrl: projImg1,
+      URLS: "https://www.twitch.tv/teuf",
     },
     {
       title: "Business Startup",
       description: "Design & Development",
       imgUrl: projImg2,
+      URLS: "https://www.twitch.tv/teuf",
     },
     {
       title: "Business Startup",
       description: "Design & Development",
       imgUrl: projImg3,
-    },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg1,
-    },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg2,
-    },
-    {
-      title: "Business Startup",
-      description: "Design & Development",
-      imgUrl: projImg3,
+      URLS: "https://www.twitch.tv/teuf",
     },
   ];
 
@@ -51,19 +39,19 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeInUp": ""}>
           <h2>Projects</h2>
-          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text </p>
+          <p>Do you want to know more about me ? Explore my path.</p>
           </div>}
             </TrackVisibility>
           <Tab.Container id="project-tabs" defaultActiveKey="first">
           <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
             <Nav.Item>
-              <Nav.Link eventKey="first">Tab One</Nav.Link>
+              <Nav.Link eventKey="first">All projects</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link eventKey="second">Tab 2</Nav.Link>
+              <Nav.Link eventKey="second">Web2 projects</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link eventKey="third">Tab 3</Nav.Link>
+              <Nav.Link eventKey="third">Web3 projects</Nav.Link>
             </Nav.Item>
           </Nav>
           <Tab.Content>

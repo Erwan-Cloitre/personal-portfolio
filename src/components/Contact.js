@@ -20,7 +20,6 @@ export const Contact = () => {
       })
   }
 
-
   return (
     <section className="contact" id="connect">
       <Container>
