@@ -28,12 +28,6 @@ export const Projects = () => {
       imgUrl: projImg3,
       URLS: "https://www.eternalcthulhu.com/",
     },
-    {
-      title: "NFT collection",
-      description: "Design & Development",
-      imgUrl: projImg3,
-      URLS: "https://www.eternalcthulhu.com/",
-    },
   ];
 
   return (
