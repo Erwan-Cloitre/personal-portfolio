@@ -29,7 +29,7 @@ export const Banner = () => {
               </h1>
               <p>A Freelance Fullstack Web & Blockchain developer who loves coding, designing & promoting websites. I will help you to achieve your web project. I help businesses to create their website and reach their goals.<br/>Any Project in mind?
               </p>
-              <a href="#connect"><button>Let's connect <ArrowRightCircle size={25}/></button></a>
+              <a href="#contact"><button>Let's connect <ArrowRightCircle size={25}/></button></a>
               </div>}
             </TrackVisibility>
             </Col>

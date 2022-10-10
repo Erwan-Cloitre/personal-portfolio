@@ -51,7 +51,7 @@ const onUpdateActiveLink = (value) => {
               <a href="#skills"><img src={navIcon2} alt=""/></a>
               <a href="#projects"><img src={navIcon3} alt=""/></a>
             </div>
-            <button className="vvd" onClck={() => console.log('connect')}><span>Let's connect</span></button>
+            <a href="#connect"><button className="vvd" onClick={() => console.log('connect')}><span>Let's connect</span></button></a>
           </span>
         </Navbar.Collapse>
       </Container>
