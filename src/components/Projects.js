@@ -11,22 +11,28 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Business Startup",
+      title: "Web3 Startup",
       description: "Design & Development",
       imgUrl: projImg1,
-      URLS: "https://www.twitch.tv/teuf",
+      URLS: "https://dotblock.vercel.app/",
     },
     {
-      title: "Business Startup",
+      title: "NFT collection",
       description: "Design & Development",
       imgUrl: projImg2,
-      URLS: "https://www.twitch.tv/teuf",
+      URLS: "https://www.toymories.com/",
     },
     {
-      title: "Business Startup",
+      title: "NFT collection",
       description: "Design & Development",
       imgUrl: projImg3,
-      URLS: "https://www.twitch.tv/teuf",
+      URLS: "https://www.eternalcthulhu.com/",
+    },
+    {
+      title: "NFT collection",
+      description: "Design & Development",
+      imgUrl: projImg3,
+      URLS: "https://www.eternalcthulhu.com/",
     },
   ];
 
@@ -69,8 +75,8 @@ export const Projects = () => {
                   }
                 </Row>
             </Tab.Pane>
-            <Tab.Pane eventKey="second">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</Tab.Pane>
-            <Tab.Pane eventKey="third">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</Tab.Pane>
+            <Tab.Pane eventKey="second">In progress.</Tab.Pane>
+            <Tab.Pane eventKey="third">In progress.</Tab.Pane>
           </Tab.Content>
           </Tab.Container>
           </Col>

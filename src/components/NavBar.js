@@ -47,7 +47,7 @@ const onUpdateActiveLink = (value) => {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-              <a href="#home"><img src={navIcon1} alt=""/></a>
+              <a href="https://www.linkedin.com/in/erwan-cloitre/"><img src={navIcon1} alt=""/></a>
               <a href="#skills"><img src={navIcon2} alt=""/></a>
               <a href="#projects"><img src={navIcon3} alt=""/></a>
             </div>
